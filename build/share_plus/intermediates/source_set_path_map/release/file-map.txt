@@ -1,0 +1,14 @@
+dev.fluttercommunity.plus.share.share_plus-core-1.7.0-0 C:\Users\himan\.gradle\caches\transforms-3\1c1dfd319ef7ba736882a2a5c4622333\transformed\core-1.7.0\res
+dev.fluttercommunity.plus.share.share_plus-jetified-core-ktx-1.7.0-1 C:\Users\himan\.gradle\caches\transforms-3\8d1f27f0b99bc197984d26312eac977e\transformed\jetified-core-ktx-1.7.0\res
+dev.fluttercommunity.plus.share.share_plus-lifecycle-runtime-2.3.1-2 C:\Users\himan\.gradle\caches\transforms-3\934acfeab5ba4111227325dcbec13b5e\transformed\lifecycle-runtime-2.3.1\res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-java-1.0.0-beta04-3 C:\Users\himan\.gradle\caches\transforms-3\9644bec7b4d71b8b57e9e2f2e2e8b21e\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-1.0.0-beta04-4 C:\Users\himan\.gradle\caches\transforms-3\d92d8ca664bde34ffd6b72bceecd6a82\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-jetified-annotation-experimental-1.1.0-5 C:\Users\himan\.gradle\caches\transforms-3\fc28fb4886fb400b894c19b2b6636427\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.share.share_plus-pngs-6 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\share_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.share.share_plus-resValues-7 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\share_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.share.share_plus-rs-8 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\share_plus\generated\res\rs\release
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-9 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\share_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-10 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\share_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.share.share_plus-merged_res-11 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\share_plus\intermediates\merged_res\release
+dev.fluttercommunity.plus.share.share_plus-main-12 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\share_plus-4.5.3\android\src\main\res
+dev.fluttercommunity.plus.share.share_plus-release-13 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\share_plus-4.5.3\android\src\release\res

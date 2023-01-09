@@ -1,0 +1,4 @@
+#Mon Jan 09 15:37:52 IST 2023
+base.0=C\:\\Users\\himan\\intern\\petshop_flutter\\petshop_flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

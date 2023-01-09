@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "co.paystack.flutterpaystack.flutter_paystack-mergeReleaseResources-28:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\himan\\.gradle\\caches\\transforms-3\\2eac9f22c13d6676629852a314d286ad\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\himan\\.gradle\\caches\\transforms-3\\589c073860f2caa5317f9af4e646541a\\transformed\\appcompat-1.5.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "co.paystack.flutterpaystack.flutter_paystack-merged_res-30:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\himan\\.gradle\\caches\\transforms-3\\2eac9f22c13d6676629852a314d286ad\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\himan\\.gradle\\caches\\transforms-3\\589c073860f2caa5317f9af4e646541a\\transformed\\appcompat-1.5.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

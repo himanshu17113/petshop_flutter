@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-0 C:\Users\himan\.gradle\caches\transforms-3\9644bec7b4d71b8b57e9e2f2e2e8b21e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-1 C:\Users\himan\.gradle\caches\transforms-3\cf2f05ec058500438585a18ae2043298\transformed\core-1.6.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-2 C:\Users\himan\.gradle\caches\transforms-3\d92d8ca664bde34ffd6b72bceecd6a82\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-3 C:\Users\himan\.gradle\caches\transforms-3\fc28fb4886fb400b894c19b2b6636427\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-4 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-5 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-6 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\flutter_plugin_android_lifecycle\generated\res\rs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-7 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-8 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-9 C:\Users\himan\intern\petshop_flutter\petshop_flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-10 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_plugin_android_lifecycle-2.0.7\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-11 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_plugin_android_lifecycle-2.0.7\android\src\release\res

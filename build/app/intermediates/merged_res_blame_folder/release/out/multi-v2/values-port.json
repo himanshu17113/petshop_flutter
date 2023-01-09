@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.pet_shop_flutter.app-mergeReleaseResources-43:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\himan\\.gradle\\caches\\transforms-3\\589c073860f2caa5317f9af4e646541a\\transformed\\appcompat-1.5.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
